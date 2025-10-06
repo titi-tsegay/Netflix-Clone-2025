@@ -41,7 +41,8 @@ const Footer = () => {
                         <li>Privacy</li>
                         <li>Contact Us</li>
                     </ul>                
-                </div>
+                </div> 
+                </div>               
                 <div className='service_code'>
                     <p>
                         Service Code
@@ -52,7 +53,6 @@ const Footer = () => {
                 </div>
             </div>
         </div>
-    </div>
   )
 }
 
